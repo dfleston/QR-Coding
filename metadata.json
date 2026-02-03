@@ -1,0 +1,7 @@
+{
+  "name": "Artistic QR Poster Creator",
+  "description": "Convert URLs into stunning, artistic posters with QR codes integrated into AI-generated backgrounds. Customize layout, styles, and themes for high-quality visual designs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
